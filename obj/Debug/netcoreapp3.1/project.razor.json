@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\monch\\Desktop\\coding-environment\\src\\ISAS\\ISAS.csproj",
+  "FilePath": "/home/monchkrit/Code-House/ISAS/ISAS.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -20521,48 +20521,48 @@
   "RootNamespace": "ISAS",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\monch\\Desktop\\coding-environment\\src\\ISAS\\Pages\\Shared\\_LoginPartial.cshtml",
-      "TargetPath": "Pages\\Shared\\_LoginPartial.cshtml",
+      "FilePath": "/home/monchkrit/Code-House/ISAS/Pages/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\monch\\Desktop\\coding-environment\\src\\ISAS\\Pages\\Shared\\_Layout.cshtml",
+      "FilePath": "/home/monchkrit/Code-House/ISAS/Pages/Shared/_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\monch\\Desktop\\coding-environment\\src\\ISAS\\Pages\\Privacy.cshtml",
-      "TargetPath": "Pages\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\monch\\Desktop\\coding-environment\\src\\ISAS\\Pages\\_ViewImports.cshtml",
-      "TargetPath": "Pages\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\monch\\Desktop\\coding-environment\\src\\ISAS\\Pages\\Error.cshtml",
+      "FilePath": "/home/monchkrit/Code-House/ISAS/Pages/Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\monch\\Desktop\\coding-environment\\src\\ISAS\\Pages\\Index.cshtml",
-      "TargetPath": "Pages\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\monch\\Desktop\\coding-environment\\src\\ISAS\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-      "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\monch\\Desktop\\coding-environment\\src\\ISAS\\Pages\\_ViewStart.cshtml",
+      "FilePath": "/home/monchkrit/Code-House/ISAS/Pages/_ViewStart.cshtml",
       "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\monch\\Desktop\\coding-environment\\src\\ISAS\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "/home/monchkrit/Code-House/ISAS/Pages/Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/monchkrit/Code-House/ISAS/Pages/_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/monchkrit/Code-House/ISAS/Areas/Identity/Pages/_ViewStart.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/monchkrit/Code-House/ISAS/Pages/Shared/_LoginPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_LoginPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/monchkrit/Code-House/ISAS/Pages/Privacy.cshtml",
+      "TargetPath": "Pages\\Privacy.cshtml",
       "FileKind": "mvc"
     }
   ],
