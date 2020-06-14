@@ -17,24 +17,28 @@
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
-                    <ul>
+                    <div class="container">
                         <li>
-                            <a href="#samplecode">Sample Code</a>
+                            <button class="btn btn-secondary"><a href="Contact">Contact</a></button>
                         </li>
-                    </ul>
-                    @* <partial name="_LoginPartial" />                     *@
+                        <li>
+                            <button class="btn btn-secondary"><a href="About">About</a></button>
+                        </li>
+                    </div>                    
                 </div>
             </div>
         </nav>
+        
     </header>
     <div class="container">
-        <main role="main" class="pb-3">
+        <main role="main" class="pb-4">
             @RenderBody()
         </main>
     </div>
 
     <footer class="border-top footer text-muted">
         <div class="container">
+            <br />
             &copy; 2020 - Internet Sites and Stores - <a asp-area="" asp-page="/Privacy">Privacy</a>
         </div>
     </footer>
