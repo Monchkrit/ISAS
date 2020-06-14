@@ -1,8 +1,9 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/home/monchkrit/.dotnet/store/|arch|/|tfm|",
-      "/home/monchkrit/.nuget/packages"
+      "C:\\Users\\monch\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\monch\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ]
   }
 }

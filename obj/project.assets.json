@@ -1593,24 +1593,30 @@
     ]
   },
   "packageFolders": {
-    "/home/monchkrit/.nuget/packages/": {}
+    "C:\\Users\\monch\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/monchkrit/Code-House/ISAS/ISAS.csproj",
+      "projectUniqueName": "C:\\Users\\monch\\Desktop\\coding-environment\\src\\ISAS\\ISAS.csproj",
       "projectName": "ISAS",
-      "projectPath": "/home/monchkrit/Code-House/ISAS/ISAS.csproj",
-      "packagesPath": "/home/monchkrit/.nuget/packages/",
-      "outputPath": "/home/monchkrit/Code-House/ISAS/obj/",
+      "projectPath": "C:\\Users\\monch\\Desktop\\coding-environment\\src\\ISAS\\ISAS.csproj",
+      "packagesPath": "C:\\Users\\monch\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\monch\\Desktop\\coding-environment\\src\\ISAS\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "/home/monchkrit/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\monch\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -1666,7 +1672,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
