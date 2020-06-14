@@ -17,13 +17,16 @@
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
-                    <div class="container">
-                        <li>
-                            <button class="btn btn-secondary"><a href="Contact">Contact</a></button>
-                        </li>
-                        <li>
-                            <button class="btn btn-secondary"><a href="About">About</a></button>
-                        </li>
+                    <div class="container-fluid">
+                        <div class="row">
+                            <li>
+                            <button class="btn btn-link"><a href="Contact" style="color:white">Contact</a></button>
+                            </li>
+                            <li>
+                                <button class="btn btn-link"><a href="About" style="color:white">About</a></button>
+                            </li>
+                        </div>
+                        
                     </div>                    
                 </div>
             </div>
@@ -38,8 +41,8 @@
 
     <footer class="border-top footer text-muted">
         <div class="container">
-            <br />
             &copy; 2020 - Internet Sites and Stores - <a asp-area="" asp-page="/Privacy">Privacy</a>
+            <a asp-area="" asp-page="/Terms">Terms</a>
         </div>
     </footer>
 

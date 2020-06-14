@@ -20566,6 +20566,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/monchkrit/Code-House/ISAS/Pages/Terms.cshtml",
+      "TargetPath": "Pages\\Terms.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/monchkrit/Code-House/ISAS/Pages/Shared/_LoginPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_LoginPartial.cshtml",
       "FileKind": "mvc"
