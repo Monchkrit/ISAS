@@ -190,3 +190,4 @@ C:/Users/monch/Desktop/coding-environment/src/ISAS/obj/Debug/netcoreapp3.1/ISAS.
 /home/monchkrit/Code-House/ISAS/obj/Debug/netcoreapp3.1/Razor/Pages/About.cshtml.g.cs
 /home/monchkrit/Code-House/ISAS/obj/Debug/netcoreapp3.1/Razor/Pages/Contact.cshtml.g.cs
 /home/monchkrit/Code-House/ISAS/obj/Debug/netcoreapp3.1/Razor/Pages/Terms.cshtml.g.cs
+/home/monchkrit/Code-House/ISAS/obj/Debug/netcoreapp3.1/Razor/Pages/Services.cshtml.g.cs

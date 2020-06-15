@@ -20531,6 +20531,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/monchkrit/Code-House/ISAS/Pages/Services.cshtml",
+      "TargetPath": "Pages\\Services.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/monchkrit/Code-House/ISAS/Pages/Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
