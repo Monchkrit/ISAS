@@ -109,7 +109,18 @@ body {
   float: left;
   width: 42.5%;
   margin-left: 5%;
-  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.job-box {
+	-moz-box-shadow: 1px 1px 2px 0 #d0d0d0;
+	-webkit-box-shadow: 1px 1px 2px 0 #d0d0d0;
+	box-shadow: 1px 1px 2px 0 #d0d0d0;
+	background: rgba(206, 177, 33, 0.62);
+	border: 3px solid #ccc;
+	border-color: #e4e4e4 #b3b3bd #bebebd #e4e4e4;
+  margin-bottom: 15px;
+  min-width: 120px;
 }
 
 .code-sample {
@@ -131,4 +142,5 @@ body {
   width: 100%;
   white-space: nowrap;
   line-height: 60px; /* Vertically center the text there */
+  margin-top: 10px;
 }
