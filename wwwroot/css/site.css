@@ -5,7 +5,7 @@ for details on configuring this project to bundle and minify static web assets. 
   src: url('../fonts/roboto-fontfacekit/web fonts/roboto_regular_macroman/Roboto-Regular-webfont.eot');
   src: url('../fonts/roboto-fontfacekit/web fonts/roboto_regular_macroman/Roboto-Regular-webfont.eot?#iefix') format('embedded-opentype'),
        url('../fonts/roboto-fontfacekit/web fonts/roboto_regular_macroman/Roboto-Regular-webfont.woff') format('woff'),
-       url('../fonts/roboto-fontfacekit/web fonts/roboto_regular_macroman/Roboto-Regular-webfont.ttf') format('truetype'),
+       url('../fonts/roboto-fontfacekit/web fonts/roboto_regular_macroman/Roboto-Regular-webfont.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
   
@@ -117,8 +117,8 @@ body {
 	background: rgba(206, 177, 33, 0.62);
 	border: 3px solid #ccc;
 	border-color: #e4e4e4 #b3b3bd #bebebd #e4e4e4;
-  margin-bottom: 15px;
-  min-width: 120px;
+  margin: 15px;
+  min-width: 145px;
 }
 
 .code-sample {
