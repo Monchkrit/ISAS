@@ -1,0 +1,965 @@
+{
+  "Files": [
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/docs/API-CSharp-Certificate.pdf",
+      "PackagePath": "staticwebassets/docs/API-CSharp-Certificate.pdf"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/docs/CSharp-Winform-Certificate.pdf",
+      "PackagePath": "staticwebassets/docs/CSharp-Winform-Certificate.pdf"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/docs/Entity-Framework-Certificate.pdf",
+      "PackagePath": "staticwebassets/docs/Entity-Framework-Certificate.pdf"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/favicon.gif",
+      "PackagePath": "staticwebassets/favicon.gif"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/Roboto.zip",
+      "PackagePath": "staticwebassets/fonts/Roboto.zip"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/Roboto/LICENSE.txt",
+      "PackagePath": "staticwebassets/fonts/Roboto/LICENSE.txt"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/Roboto/Roboto-Black.ttf",
+      "PackagePath": "staticwebassets/fonts/Roboto/Roboto-Black.ttf"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/Roboto/Roboto-BlackItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Roboto/Roboto-BlackItalic.ttf"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/Roboto/Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets/fonts/Roboto/Roboto-Bold.ttf"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/Roboto/Roboto-BoldItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Roboto/Roboto-BoldItalic.ttf"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/Roboto/Roboto-Italic.ttf",
+      "PackagePath": "staticwebassets/fonts/Roboto/Roboto-Italic.ttf"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/Roboto/Roboto-Light.ttf",
+      "PackagePath": "staticwebassets/fonts/Roboto/Roboto-Light.ttf"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/Roboto/Roboto-LightItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Roboto/Roboto-LightItalic.ttf"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/Roboto/Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets/fonts/Roboto/Roboto-Medium.ttf"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/Roboto/Roboto-MediumItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Roboto/Roboto-MediumItalic.ttf"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/Roboto/Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets/fonts/Roboto/Roboto-Regular.ttf"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/Roboto/Roboto-Thin.ttf",
+      "PackagePath": "staticwebassets/fonts/Roboto/Roboto-Thin.ttf"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/Roboto/Roboto-ThinItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Roboto/Roboto-ThinItalic.ttf"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/Spectral.zip",
+      "PackagePath": "staticwebassets/fonts/Spectral.zip"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/Spectral/OFL.txt",
+      "PackagePath": "staticwebassets/fonts/Spectral/OFL.txt"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/Spectral/Spectral-Bold.ttf",
+      "PackagePath": "staticwebassets/fonts/Spectral/Spectral-Bold.ttf"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/Spectral/Spectral-BoldItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Spectral/Spectral-BoldItalic.ttf"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/Spectral/Spectral-ExtraBold.ttf",
+      "PackagePath": "staticwebassets/fonts/Spectral/Spectral-ExtraBold.ttf"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/Spectral/Spectral-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Spectral/Spectral-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/Spectral/Spectral-ExtraLight.ttf",
+      "PackagePath": "staticwebassets/fonts/Spectral/Spectral-ExtraLight.ttf"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/Spectral/Spectral-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Spectral/Spectral-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/Spectral/Spectral-Italic.ttf",
+      "PackagePath": "staticwebassets/fonts/Spectral/Spectral-Italic.ttf"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/Spectral/Spectral-Light.ttf",
+      "PackagePath": "staticwebassets/fonts/Spectral/Spectral-Light.ttf"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/Spectral/Spectral-LightItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Spectral/Spectral-LightItalic.ttf"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/Spectral/Spectral-Medium.ttf",
+      "PackagePath": "staticwebassets/fonts/Spectral/Spectral-Medium.ttf"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/Spectral/Spectral-MediumItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Spectral/Spectral-MediumItalic.ttf"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/Spectral/Spectral-Regular.ttf",
+      "PackagePath": "staticwebassets/fonts/Spectral/Spectral-Regular.ttf"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/Spectral/Spectral-SemiBold.ttf",
+      "PackagePath": "staticwebassets/fonts/Spectral/Spectral-SemiBold.ttf"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/Spectral/Spectral-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets/fonts/Spectral/Spectral-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit.zip",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit.zip"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/Apache License.txt",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/Apache License.txt"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/How_to_use_webfonts.html",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/How_to_use_webfonts.html"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_black_macroman/Roboto-Black-demo.html",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_black_macroman/Roboto-Black-demo.html"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_black_macroman/Roboto-Black-webfont.eot",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_black_macroman/Roboto-Black-webfont.eot"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_black_macroman/Roboto-Black-webfont.woff",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_black_macroman/Roboto-Black-webfont.woff"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_black_macroman/specimen_files/Roboto-Black-cleartype.png",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_black_macroman/specimen_files/Roboto-Black-cleartype.png"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_black_macroman/specimen_files/grid_12-825-55-15.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_black_macroman/specimen_files/grid_12-825-55-15.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_black_macroman/specimen_files/specimen_stylesheet.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_black_macroman/specimen_files/specimen_stylesheet.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_black_macroman/stylesheet.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_black_macroman/stylesheet.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_blackitalic_macroman/Roboto-BlackItalic-demo.html",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_blackitalic_macroman/Roboto-BlackItalic-demo.html"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_blackitalic_macroman/Roboto-BlackItalic-webfont.eot",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_blackitalic_macroman/Roboto-BlackItalic-webfont.eot"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_blackitalic_macroman/Roboto-BlackItalic-webfont.woff",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_blackitalic_macroman/Roboto-BlackItalic-webfont.woff"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_blackitalic_macroman/specimen_files/Roboto-BlackItalic-cleartype.png",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_blackitalic_macroman/specimen_files/Roboto-BlackItalic-cleartype.png"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_blackitalic_macroman/specimen_files/grid_12-825-55-15.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_blackitalic_macroman/specimen_files/grid_12-825-55-15.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_blackitalic_macroman/specimen_files/specimen_stylesheet.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_blackitalic_macroman/specimen_files/specimen_stylesheet.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_blackitalic_macroman/stylesheet.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_blackitalic_macroman/stylesheet.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_bold_macroman/Roboto-Bold-demo.html",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_bold_macroman/Roboto-Bold-demo.html"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_bold_macroman/Roboto-Bold-webfont.eot",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_bold_macroman/Roboto-Bold-webfont.eot"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_bold_macroman/Roboto-Bold-webfont.woff",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_bold_macroman/Roboto-Bold-webfont.woff"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_bold_macroman/specimen_files/Roboto-Bold-cleartype.png",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_bold_macroman/specimen_files/Roboto-Bold-cleartype.png"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_bold_macroman/specimen_files/grid_12-825-55-15.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_bold_macroman/specimen_files/grid_12-825-55-15.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_bold_macroman/specimen_files/specimen_stylesheet.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_bold_macroman/specimen_files/specimen_stylesheet.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_bold_macroman/stylesheet.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_bold_macroman/stylesheet.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_boldcondensed_macroman/RobotoCondensed-Bold-demo.html",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_boldcondensed_macroman/RobotoCondensed-Bold-demo.html"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_boldcondensed_macroman/RobotoCondensed-Bold-webfont.eot",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_boldcondensed_macroman/RobotoCondensed-Bold-webfont.eot"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_boldcondensed_macroman/RobotoCondensed-Bold-webfont.woff",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_boldcondensed_macroman/RobotoCondensed-Bold-webfont.woff"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_boldcondensed_macroman/specimen_files/RobotoCondensed-Bold-cleartype.png",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_boldcondensed_macroman/specimen_files/RobotoCondensed-Bold-cleartype.png"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_boldcondensed_macroman/specimen_files/grid_12-825-55-15.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_boldcondensed_macroman/specimen_files/grid_12-825-55-15.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_boldcondensed_macroman/specimen_files/specimen_stylesheet.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_boldcondensed_macroman/specimen_files/specimen_stylesheet.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_boldcondensed_macroman/stylesheet.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_boldcondensed_macroman/stylesheet.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_boldcondenseditalic_macroman/RobotoCondensed-BoldItalic-demo.html",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_boldcondenseditalic_macroman/RobotoCondensed-BoldItalic-demo.html"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_boldcondenseditalic_macroman/RobotoCondensed-BoldItalic-webfont.eot",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_boldcondenseditalic_macroman/RobotoCondensed-BoldItalic-webfont.eot"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_boldcondenseditalic_macroman/RobotoCondensed-BoldItalic-webfont.woff",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_boldcondenseditalic_macroman/RobotoCondensed-BoldItalic-webfont.woff"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_boldcondenseditalic_macroman/specimen_files/RobotoCondensed-BoldItalic-cleartype.png",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_boldcondenseditalic_macroman/specimen_files/RobotoCondensed-BoldItalic-cleartype.png"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_boldcondenseditalic_macroman/specimen_files/grid_12-825-55-15.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_boldcondenseditalic_macroman/specimen_files/grid_12-825-55-15.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_boldcondenseditalic_macroman/specimen_files/specimen_stylesheet.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_boldcondenseditalic_macroman/specimen_files/specimen_stylesheet.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_boldcondenseditalic_macroman/stylesheet.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_boldcondenseditalic_macroman/stylesheet.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_bolditalic_macroman/Roboto-BoldItalic-demo.html",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_bolditalic_macroman/Roboto-BoldItalic-demo.html"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_bolditalic_macroman/Roboto-BoldItalic-webfont.eot",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_bolditalic_macroman/Roboto-BoldItalic-webfont.eot"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_bolditalic_macroman/Roboto-BoldItalic-webfont.woff",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_bolditalic_macroman/Roboto-BoldItalic-webfont.woff"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_bolditalic_macroman/specimen_files/Roboto-BoldItalic-cleartype.png",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_bolditalic_macroman/specimen_files/Roboto-BoldItalic-cleartype.png"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_bolditalic_macroman/specimen_files/grid_12-825-55-15.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_bolditalic_macroman/specimen_files/grid_12-825-55-15.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_bolditalic_macroman/specimen_files/specimen_stylesheet.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_bolditalic_macroman/specimen_files/specimen_stylesheet.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_bolditalic_macroman/stylesheet.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_bolditalic_macroman/stylesheet.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_condensed_macroman/RobotoCondensed-Regular-demo.html",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_condensed_macroman/RobotoCondensed-Regular-demo.html"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_condensed_macroman/RobotoCondensed-Regular-webfont.eot",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_condensed_macroman/RobotoCondensed-Regular-webfont.eot"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_condensed_macroman/RobotoCondensed-Regular-webfont.woff",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_condensed_macroman/RobotoCondensed-Regular-webfont.woff"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_condensed_macroman/specimen_files/RobotoCondensed-Regular-cleartype.png",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_condensed_macroman/specimen_files/RobotoCondensed-Regular-cleartype.png"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_condensed_macroman/specimen_files/grid_12-825-55-15.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_condensed_macroman/specimen_files/grid_12-825-55-15.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_condensed_macroman/specimen_files/specimen_stylesheet.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_condensed_macroman/specimen_files/specimen_stylesheet.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_condensed_macroman/stylesheet.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_condensed_macroman/stylesheet.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_condenseditalic_macroman/RobotoCondensed-Italic-demo.html",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_condenseditalic_macroman/RobotoCondensed-Italic-demo.html"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_condenseditalic_macroman/RobotoCondensed-Italic-webfont.eot",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_condenseditalic_macroman/RobotoCondensed-Italic-webfont.eot"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_condenseditalic_macroman/RobotoCondensed-Italic-webfont.woff",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_condenseditalic_macroman/RobotoCondensed-Italic-webfont.woff"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_condenseditalic_macroman/specimen_files/RobotoCondensed-Italic-cleartype.png",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_condenseditalic_macroman/specimen_files/RobotoCondensed-Italic-cleartype.png"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_condenseditalic_macroman/specimen_files/grid_12-825-55-15.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_condenseditalic_macroman/specimen_files/grid_12-825-55-15.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_condenseditalic_macroman/specimen_files/specimen_stylesheet.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_condenseditalic_macroman/specimen_files/specimen_stylesheet.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_condenseditalic_macroman/stylesheet.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_condenseditalic_macroman/stylesheet.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_italic_macroman/Roboto-Italic-demo.html",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_italic_macroman/Roboto-Italic-demo.html"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_italic_macroman/Roboto-Italic-webfont.eot",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_italic_macroman/Roboto-Italic-webfont.eot"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_italic_macroman/Roboto-Italic-webfont.woff",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_italic_macroman/Roboto-Italic-webfont.woff"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_italic_macroman/specimen_files/Roboto-Italic-cleartype.png",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_italic_macroman/specimen_files/Roboto-Italic-cleartype.png"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_italic_macroman/specimen_files/grid_12-825-55-15.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_italic_macroman/specimen_files/grid_12-825-55-15.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_italic_macroman/specimen_files/specimen_stylesheet.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_italic_macroman/specimen_files/specimen_stylesheet.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_italic_macroman/stylesheet.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_italic_macroman/stylesheet.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_light_macroman/Roboto-Light-demo.html",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_light_macroman/Roboto-Light-demo.html"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_light_macroman/Roboto-Light-webfont.eot",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_light_macroman/Roboto-Light-webfont.eot"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_light_macroman/Roboto-Light-webfont.woff",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_light_macroman/Roboto-Light-webfont.woff"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_light_macroman/specimen_files/Roboto-Light-cleartype.png",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_light_macroman/specimen_files/Roboto-Light-cleartype.png"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_light_macroman/specimen_files/grid_12-825-55-15.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_light_macroman/specimen_files/grid_12-825-55-15.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_light_macroman/specimen_files/specimen_stylesheet.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_light_macroman/specimen_files/specimen_stylesheet.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_light_macroman/stylesheet.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_light_macroman/stylesheet.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_lightcondensed_macroman/RobotoCondensed-Light-demo.html",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_lightcondensed_macroman/RobotoCondensed-Light-demo.html"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_lightcondensed_macroman/RobotoCondensed-Light-webfont.eot",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_lightcondensed_macroman/RobotoCondensed-Light-webfont.eot"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_lightcondensed_macroman/RobotoCondensed-Light-webfont.woff",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_lightcondensed_macroman/RobotoCondensed-Light-webfont.woff"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_lightcondensed_macroman/specimen_files/RobotoCondensed-Light-cleartype.png",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_lightcondensed_macroman/specimen_files/RobotoCondensed-Light-cleartype.png"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_lightcondensed_macroman/specimen_files/grid_12-825-55-15.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_lightcondensed_macroman/specimen_files/grid_12-825-55-15.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_lightcondensed_macroman/specimen_files/specimen_stylesheet.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_lightcondensed_macroman/specimen_files/specimen_stylesheet.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_lightcondensed_macroman/stylesheet.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_lightcondensed_macroman/stylesheet.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_lightcondenseditalic_macroman/RobotoCondensed-LightItalic-demo.html",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_lightcondenseditalic_macroman/RobotoCondensed-LightItalic-demo.html"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_lightcondenseditalic_macroman/RobotoCondensed-LightItalic-webfont.eot",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_lightcondenseditalic_macroman/RobotoCondensed-LightItalic-webfont.eot"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_lightcondenseditalic_macroman/RobotoCondensed-LightItalic-webfont.woff",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_lightcondenseditalic_macroman/RobotoCondensed-LightItalic-webfont.woff"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_lightcondenseditalic_macroman/specimen_files/RobotoCondensed-LightItalic-cleartype.png",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_lightcondenseditalic_macroman/specimen_files/RobotoCondensed-LightItalic-cleartype.png"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_lightcondenseditalic_macroman/specimen_files/grid_12-825-55-15.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_lightcondenseditalic_macroman/specimen_files/grid_12-825-55-15.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_lightcondenseditalic_macroman/specimen_files/specimen_stylesheet.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_lightcondenseditalic_macroman/specimen_files/specimen_stylesheet.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_lightcondenseditalic_macroman/stylesheet.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_lightcondenseditalic_macroman/stylesheet.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_lightitalic_macroman/Roboto-LightItalic-demo.html",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_lightitalic_macroman/Roboto-LightItalic-demo.html"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_lightitalic_macroman/Roboto-LightItalic-webfont.eot",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_lightitalic_macroman/Roboto-LightItalic-webfont.eot"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_lightitalic_macroman/Roboto-LightItalic-webfont.woff",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_lightitalic_macroman/Roboto-LightItalic-webfont.woff"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_lightitalic_macroman/specimen_files/Roboto-LightItalic-cleartype.png",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_lightitalic_macroman/specimen_files/Roboto-LightItalic-cleartype.png"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_lightitalic_macroman/specimen_files/grid_12-825-55-15.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_lightitalic_macroman/specimen_files/grid_12-825-55-15.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_lightitalic_macroman/specimen_files/specimen_stylesheet.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_lightitalic_macroman/specimen_files/specimen_stylesheet.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_lightitalic_macroman/stylesheet.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_lightitalic_macroman/stylesheet.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_medium_macroman/Roboto-Medium-demo.html",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_medium_macroman/Roboto-Medium-demo.html"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_medium_macroman/Roboto-Medium-webfont.eot",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_medium_macroman/Roboto-Medium-webfont.eot"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_medium_macroman/Roboto-Medium-webfont.woff",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_medium_macroman/Roboto-Medium-webfont.woff"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_medium_macroman/specimen_files/Roboto-Medium-cleartype.png",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_medium_macroman/specimen_files/Roboto-Medium-cleartype.png"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_medium_macroman/specimen_files/grid_12-825-55-15.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_medium_macroman/specimen_files/grid_12-825-55-15.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_medium_macroman/specimen_files/specimen_stylesheet.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_medium_macroman/specimen_files/specimen_stylesheet.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_medium_macroman/stylesheet.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_medium_macroman/stylesheet.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_mediumitalic_macroman/Roboto-MediumItalic-demo.html",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_mediumitalic_macroman/Roboto-MediumItalic-demo.html"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_mediumitalic_macroman/Roboto-MediumItalic-webfont.eot",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_mediumitalic_macroman/Roboto-MediumItalic-webfont.eot"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_mediumitalic_macroman/Roboto-MediumItalic-webfont.woff",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_mediumitalic_macroman/Roboto-MediumItalic-webfont.woff"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_mediumitalic_macroman/specimen_files/Roboto-MediumItalic-cleartype.png",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_mediumitalic_macroman/specimen_files/Roboto-MediumItalic-cleartype.png"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_mediumitalic_macroman/specimen_files/grid_12-825-55-15.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_mediumitalic_macroman/specimen_files/grid_12-825-55-15.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_mediumitalic_macroman/specimen_files/specimen_stylesheet.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_mediumitalic_macroman/specimen_files/specimen_stylesheet.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_mediumitalic_macroman/stylesheet.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_mediumitalic_macroman/stylesheet.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_regular_macroman/Roboto-Regular-demo.html",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_regular_macroman/Roboto-Regular-demo.html"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_regular_macroman/Roboto-Regular-webfont.eot",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_regular_macroman/Roboto-Regular-webfont.eot"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_regular_macroman/Roboto-Regular-webfont.woff",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_regular_macroman/Roboto-Regular-webfont.woff"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_regular_macroman/specimen_files/Roboto-Regular-cleartype.png",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_regular_macroman/specimen_files/Roboto-Regular-cleartype.png"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_regular_macroman/specimen_files/grid_12-825-55-15.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_regular_macroman/specimen_files/grid_12-825-55-15.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_regular_macroman/specimen_files/specimen_stylesheet.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_regular_macroman/specimen_files/specimen_stylesheet.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_regular_macroman/stylesheet.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_regular_macroman/stylesheet.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_thin_macroman/Roboto-Thin-demo.html",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_thin_macroman/Roboto-Thin-demo.html"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_thin_macroman/Roboto-Thin-webfont.eot",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_thin_macroman/Roboto-Thin-webfont.eot"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_thin_macroman/Roboto-Thin-webfont.woff",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_thin_macroman/Roboto-Thin-webfont.woff"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_thin_macroman/specimen_files/Roboto-Thin-cleartype.png",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_thin_macroman/specimen_files/Roboto-Thin-cleartype.png"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_thin_macroman/specimen_files/grid_12-825-55-15.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_thin_macroman/specimen_files/grid_12-825-55-15.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_thin_macroman/specimen_files/specimen_stylesheet.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_thin_macroman/specimen_files/specimen_stylesheet.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_thin_macroman/stylesheet.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_thin_macroman/stylesheet.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_thinitalic_macroman/Roboto-ThinItalic-demo.html",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_thinitalic_macroman/Roboto-ThinItalic-demo.html"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_thinitalic_macroman/Roboto-ThinItalic-webfont.eot",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_thinitalic_macroman/Roboto-ThinItalic-webfont.eot"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_thinitalic_macroman/Roboto-ThinItalic-webfont.woff",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_thinitalic_macroman/Roboto-ThinItalic-webfont.woff"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_thinitalic_macroman/specimen_files/Roboto-ThinItalic-cleartype.png",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_thinitalic_macroman/specimen_files/Roboto-ThinItalic-cleartype.png"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_thinitalic_macroman/specimen_files/grid_12-825-55-15.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_thinitalic_macroman/specimen_files/grid_12-825-55-15.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_thinitalic_macroman/specimen_files/specimen_stylesheet.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_thinitalic_macroman/specimen_files/specimen_stylesheet.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/roboto-fontfacekit/web fonts/roboto_thinitalic_macroman/stylesheet.css",
+      "PackagePath": "staticwebassets/fonts/roboto-fontfacekit/web fonts/roboto_thinitalic_macroman/stylesheet.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/spectral-fontfacekit.zip",
+      "PackagePath": "staticwebassets/fonts/spectral-fontfacekit.zip"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/spectral-fontfacekit/generator_config.txt",
+      "PackagePath": "staticwebassets/fonts/spectral-fontfacekit/generator_config.txt"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/spectral-fontfacekit/specimen_files/grid_12-825-55-15.css",
+      "PackagePath": "staticwebassets/fonts/spectral-fontfacekit/specimen_files/grid_12-825-55-15.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/spectral-fontfacekit/specimen_files/specimen_stylesheet.css",
+      "PackagePath": "staticwebassets/fonts/spectral-fontfacekit/specimen_files/specimen_stylesheet.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/spectral-fontfacekit/spectral-bold-demo.html",
+      "PackagePath": "staticwebassets/fonts/spectral-fontfacekit/spectral-bold-demo.html"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/spectral-fontfacekit/spectral-bold-webfont.woff",
+      "PackagePath": "staticwebassets/fonts/spectral-fontfacekit/spectral-bold-webfont.woff"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/spectral-fontfacekit/spectral-bold-webfont.woff2",
+      "PackagePath": "staticwebassets/fonts/spectral-fontfacekit/spectral-bold-webfont.woff2"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/spectral-fontfacekit/spectral-bolditalic-demo.html",
+      "PackagePath": "staticwebassets/fonts/spectral-fontfacekit/spectral-bolditalic-demo.html"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/spectral-fontfacekit/spectral-bolditalic-webfont.woff",
+      "PackagePath": "staticwebassets/fonts/spectral-fontfacekit/spectral-bolditalic-webfont.woff"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/spectral-fontfacekit/spectral-bolditalic-webfont.woff2",
+      "PackagePath": "staticwebassets/fonts/spectral-fontfacekit/spectral-bolditalic-webfont.woff2"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/spectral-fontfacekit/spectral-italic-demo.html",
+      "PackagePath": "staticwebassets/fonts/spectral-fontfacekit/spectral-italic-demo.html"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/spectral-fontfacekit/spectral-italic-webfont.woff",
+      "PackagePath": "staticwebassets/fonts/spectral-fontfacekit/spectral-italic-webfont.woff"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/spectral-fontfacekit/spectral-italic-webfont.woff2",
+      "PackagePath": "staticwebassets/fonts/spectral-fontfacekit/spectral-italic-webfont.woff2"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/spectral-fontfacekit/spectral-regular-demo.html",
+      "PackagePath": "staticwebassets/fonts/spectral-fontfacekit/spectral-regular-demo.html"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/spectral-fontfacekit/spectral-regular-webfont.woff",
+      "PackagePath": "staticwebassets/fonts/spectral-fontfacekit/spectral-regular-webfont.woff"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/spectral-fontfacekit/spectral-regular-webfont.woff2",
+      "PackagePath": "staticwebassets/fonts/spectral-fontfacekit/spectral-regular-webfont.woff2"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/fonts/spectral-fontfacekit/stylesheet.css",
+      "PackagePath": "staticwebassets/fonts/spectral-fontfacekit/stylesheet.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/images/BuckHead.jpeg",
+      "PackagePath": "staticwebassets/images/BuckHead.jpeg"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/images/FAT-homepage.png",
+      "PackagePath": "staticwebassets/images/FAT-homepage.png"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/images/FractalTree-short.JPG",
+      "PackagePath": "staticwebassets/images/FractalTree-short.JPG"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/images/FractalTree.JPG",
+      "PackagePath": "staticwebassets/images/FractalTree.JPG"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/images/ISAS-Tag.png",
+      "PackagePath": "staticwebassets/images/ISAS-Tag.png"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/images/ISAS-tall.png",
+      "PackagePath": "staticwebassets/images/ISAS-tall.png"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/images/ISAS.png",
+      "PackagePath": "staticwebassets/images/ISAS.png"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/images/PlantForm-TradeMark-NoBack-FB.jpg",
+      "PackagePath": "staticwebassets/images/PlantForm-TradeMark-NoBack-FB.jpg"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/images/Rover-Shot.png",
+      "PackagePath": "staticwebassets/images/Rover-Shot.png"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/images/dark-paths.png",
+      "PackagePath": "staticwebassets/images/dark-paths.png"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/images/dynamic-style.png",
+      "PackagePath": "staticwebassets/images/dynamic-style.png"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/images/everleap-complaint",
+      "PackagePath": "staticwebassets/images"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/images/flixter.png",
+      "PackagePath": "staticwebassets/images/flixter.png"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/images/github.png",
+      "PackagePath": "staticwebassets/images/github.png"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/images/grammable.png",
+      "PackagePath": "staticwebassets/images/grammable.png"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/images/nomster.png",
+      "PackagePath": "staticwebassets/images/nomster.png"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/images/qbkls.png",
+      "PackagePath": "staticwebassets/images/qbkls.png"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/images/splurty.png",
+      "PackagePath": "staticwebassets/images/splurty.png"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/images/tiny-squares.png",
+      "PackagePath": "staticwebassets/images/tiny-squares.png"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/images/todoster.png",
+      "PackagePath": "staticwebassets/images/todoster.png"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/home/monchkrit/Code-House/ISAS/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/netcoreapp7.0/staticwebassets/msbuild.ISAS.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/netcoreapp7.0/staticwebassets/msbuild.build.ISAS.props",
+      "PackagePath": "build\\ISAS.props"
+    },
+    {
+      "Id": "obj/Debug/netcoreapp7.0/staticwebassets/msbuild.buildMultiTargeting.ISAS.props",
+      "PackagePath": "buildMultiTargeting\\ISAS.props"
+    },
+    {
+      "Id": "obj/Debug/netcoreapp7.0/staticwebassets/msbuild.buildTransitive.ISAS.props",
+      "PackagePath": "buildTransitive\\ISAS.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
