@@ -62,3 +62,5 @@
 /home/monchkrit/Code-House/ISAS/obj/Debug/netcoreapp7/ISAS.pdb
 /home/monchkrit/Code-House/ISAS/obj/Debug/netcoreapp7/ISAS.genruntimeconfig.cache
 /home/monchkrit/Code-House/ISAS/obj/Debug/netcoreapp7/ref/ISAS.dll
+/home/monchkrit/Code-House/ISAS/bin/Debug/netcoreapp7/package-lock.json
+/home/monchkrit/Code-House/ISAS/bin/Debug/netcoreapp7/package.json
