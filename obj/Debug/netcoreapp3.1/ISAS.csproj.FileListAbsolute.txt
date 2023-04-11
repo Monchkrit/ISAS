@@ -199,3 +199,5 @@ C:/Users/monch/Desktop/coding-environment/src/ISAS/obj/Debug/netcoreapp3.1/ISAS.
 /home/monchkrit/Code-House/ISAS/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.build.ISAS.props
 /home/monchkrit/Code-House/ISAS/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildMultiTargeting.ISAS.props
 /home/monchkrit/Code-House/ISAS/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildTransitive.ISAS.props
+/home/monchkrit/Code-House/ISAS/bin/Debug/netcoreapp3.1/package-lock.json
+/home/monchkrit/Code-House/ISAS/bin/Debug/netcoreapp3.1/package.json
