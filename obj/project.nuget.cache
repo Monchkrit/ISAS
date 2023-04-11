@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "YsqJFLxuGKD0pXWxE/XZiGMYm93+RI+b4BzXxrWvmGAbP/m26GHFWitU2By4XOQ5tqqiQSod7x9PpXB8e5wjvw==",
+  "dgSpecHash": "Uh2QJ/fJgm9gHvM/3M9WcBCsHXLoKvTaKO3aC4AaFpVrsNh770teRTk30cq8JjRPMKI+2aWrTuDDbpmHs4ylUQ==",
   "success": true,
   "projectFilePath": "/home/monchkrit/Code-House/ISAS/ISAS.csproj",
   "expectedPackageFiles": [
@@ -47,10 +47,7 @@
     "/home/monchkrit/.nuget/packages/system.componentmodel.annotations/4.7.0/system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "/home/monchkrit/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
     "/home/monchkrit/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
-    "/home/monchkrit/.nuget/packages/system.text.json/4.7.2/system.text.json.4.7.2.nupkg.sha512",
-    "/home/monchkrit/.nuget/packages/microsoft.netcore.app.ref/6.0.15/microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
-    "/home/monchkrit/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.15/microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
-    "/home/monchkrit/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.15/microsoft.netcore.app.host.linux-x64.6.0.15.nupkg.sha512"
+    "/home/monchkrit/.nuget/packages/system.text.json/4.7.2/system.text.json.4.7.2.nupkg.sha512"
   ],
   "logs": []
 }

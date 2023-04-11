@@ -194,3 +194,8 @@ C:/Users/monch/Desktop/coding-environment/src/ISAS/obj/Debug/netcoreapp3.1/ISAS.
 C:/Users/monch/Desktop/coding-environment/src/ISAS/obj/Debug/netcoreapp3.1/ISAS.genruntimeconfig.cache
 /home/monchkrit/Code-House/ISAS/obj/Debug/netcoreapp3.1/ISAS.csproj.AssemblyReference.cache
 /home/monchkrit/Code-House/ISAS/obj/Debug/netcoreapp3.1/ISAS.GeneratedMSBuildEditorConfig.editorconfig
+/home/monchkrit/Code-House/ISAS/obj/Debug/netcoreapp3.1/staticwebassets/ISAS.StaticWebAssets.Pack.cache
+/home/monchkrit/Code-House/ISAS/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.ISAS.Microsoft.AspNetCore.StaticWebAssets.props
+/home/monchkrit/Code-House/ISAS/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.build.ISAS.props
+/home/monchkrit/Code-House/ISAS/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildMultiTargeting.ISAS.props
+/home/monchkrit/Code-House/ISAS/obj/Debug/netcoreapp3.1/staticwebassets/msbuild.buildTransitive.ISAS.props
